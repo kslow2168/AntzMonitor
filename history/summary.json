@@ -22,18 +22,20 @@
     "url": "https://demo.antz.app",
     "icon": "https://icons.duckduckgo.com/ip3/demo.antz.app.ico",
     "slug": "antz-demo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1546,
-    "timeDay": 1546,
-    "timeWeek": 1546,
-    "timeMonth": 1546,
-    "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 9186,
+    "timeDay": 9186,
+    "timeWeek": 9186,
+    "timeMonth": 9186,
+    "timeYear": 9186,
+    "dailyMinutesDown": {
+      "2024-11-21": 0
+    }
   },
   {
     "name": "DOGGO WEB",
