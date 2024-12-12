@@ -58,18 +58,20 @@
     "url": "https://smartesgapp.doggo.my",
     "icon": "https://icons.duckduckgo.com/ip3/smartesgapp.doggo.my.ico",
     "slug": "doggo-smart-esg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 702,
-    "timeWeek": 772,
-    "timeMonth": 777,
-    "timeYear": 777,
-    "dailyMinutesDown": {}
+    "time": 748,
+    "timeDay": 411,
+    "timeWeek": 690,
+    "timeMonth": 748,
+    "timeYear": 748,
+    "dailyMinutesDown": {
+      "2024-12-12": 0
+    }
   },
   {
     "name": "IPv6 test",
