@@ -16,7 +16,7 @@
     "timeMonth": 1190,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-05-08": 26,
+      "2025-05-08": 39,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -153,9 +153,9 @@
     "url": "https://smartesg.doggo.my",
     "icon": "https://icons.duckduckgo.com/ip3/smartesg.doggo.my.ico",
     "slug": "doggo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.96%",
@@ -165,6 +165,7 @@
     "timeMonth": 866,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2025-05-08": 0,
       "2025-04-25": 95
     }
   },
@@ -176,7 +177,7 @@
     "status": "up",
     "uptime": "99.24%",
     "uptimeDay": "94.70%",
-    "uptimeWeek": "91.10%",
+    "uptimeWeek": "91.24%",
     "uptimeMonth": "96.07%",
     "uptimeYear": "99.24%",
     "time": 795,
