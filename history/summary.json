@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/maxis.antz.app.ico",
     "slug": "maxis-wms",
     "status": "down",
-    "uptime": "30.13%",
+    "uptime": "30.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.13%",
+    "uptimeYear": "30.12%",
     "time": 1382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-06-14": 1427,
+      "2025-06-15": 30,
+      "2025-06-14": 1440,
       "2025-06-13": 1440,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
@@ -215,9 +216,9 @@
     "slug": "doggo-smart-esg",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "95.65%",
-    "uptimeWeek": "96.50%",
-    "uptimeMonth": "94.13%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "94.12%",
     "uptimeYear": "99.13%",
     "time": 891,
     "timeDay": 874,
@@ -225,7 +226,7 @@
     "timeMonth": 989,
     "timeYear": 891,
     "dailyMinutesDown": {
-      "2025-06-14": 63,
+      "2025-06-14": 54,
       "2025-06-13": 32,
       "2025-06-12": 63,
       "2025-06-11": 99,
@@ -254,7 +255,7 @@
       "2025-05-19": 104,
       "2025-05-18": 66,
       "2025-05-17": 55,
-      "2025-05-16": 28
+      "2025-05-16": 44
     }
   },
   {
