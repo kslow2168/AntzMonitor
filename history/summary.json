@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-08-15": 1172,
+      "2025-08-15": 1182,
       "2025-08-14": 1440,
       "2025-08-13": 1440,
       "2025-08-12": 1440,
@@ -255,9 +255,9 @@
     "url": "https://smartesg.doggo.my",
     "icon": "https://icons.duckduckgo.com/ip3/smartesg.doggo.my.ico",
     "slug": "doggo-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "98.75%",
@@ -267,6 +267,7 @@
     "timeMonth": 893,
     "timeYear": 963,
     "dailyMinutesDown": {
+      "2025-08-15": 0,
       "2025-08-09": 30,
       "2025-07-10": 18,
       "2025-07-07": 476,
@@ -286,9 +287,9 @@
     "slug": "doggo-smart-esg",
     "status": "up",
     "uptime": "99.18%",
-    "uptimeDay": "86.38%",
-    "uptimeWeek": "87.80%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "87.24%",
+    "uptimeWeek": "87.93%",
+    "uptimeMonth": "92.78%",
     "uptimeYear": "99.18%",
     "time": 845,
     "timeDay": 843,
@@ -296,7 +297,7 @@
     "timeMonth": 790,
     "timeYear": 845,
     "dailyMinutesDown": {
-      "2025-08-15": 196,
+      "2025-08-15": 184,
       "2025-08-14": 170,
       "2025-08-13": 81,
       "2025-08-12": 156,
@@ -316,7 +317,8 @@
       "2025-07-29": 228,
       "2025-07-28": 158,
       "2025-07-26": 139,
-      "2025-07-25": 97
+      "2025-07-25": 97,
+      "2025-07-23": 15
     }
   },
   {
