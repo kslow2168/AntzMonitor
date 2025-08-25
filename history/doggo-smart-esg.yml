@@ -1,7 +1,7 @@
 url: https://smartesgapp.doggo.my
-status: up
-code: 200
-responseTime: 905
-lastUpdated: 2025-08-25T13:52:12.534Z
+status: down
+code: 500
+responseTime: 875
+lastUpdated: 2025-08-25T14:27:53.657Z
 startTime: 2024-11-21T03:06:47.360Z
 generator: Upptime <https://github.com/upptime/upptime>
