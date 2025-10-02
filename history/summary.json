@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1382,
     "dailyMinutesDown": {
-      "2025-10-02": 215,
+      "2025-10-02": 261,
       "2025-10-01": 1440,
       "2025-09-30": 1440,
       "2025-09-29": 1440,
@@ -337,14 +337,14 @@
     "url": "https://smartesgapp.doggo.my",
     "icon": "https://icons.duckduckgo.com/ip3/smartesgapp.doggo.my.ico",
     "slug": "doggo-smart-esg",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "75.44%",
-    "uptimeWeek": "71.80%",
-    "uptimeMonth": "93.11%",
-    "uptimeYear": "99.33%",
+    "status": "down",
+    "uptime": "99.34%",
+    "uptimeDay": "77.06%",
+    "uptimeWeek": "71.87%",
+    "uptimeMonth": "93.18%",
+    "uptimeYear": "99.34%",
     "time": 850,
-    "timeDay": 1186,
+    "timeDay": 1194,
     "timeWeek": 903,
     "timeMonth": 847,
     "timeYear": 850,
@@ -357,7 +357,7 @@
       "2025-09-27": 331,
       "2025-09-26": 406,
       "2025-09-25": 450,
-      "2025-09-24": 90
+      "2025-09-24": 58
     }
   },
   {
